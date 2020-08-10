@@ -1,0 +1,13 @@
+{
+    "name": "thibaultvlacich/renovate-composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thibault Vlacich",
+            "email": "thibault.vlacich@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/migrations": "^3.0"
+    }
+}
