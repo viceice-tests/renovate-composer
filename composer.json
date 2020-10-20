@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "doctrine/migrations": "^3.0"
+        "doctrine/migrations": "3.0.1"
     }
 }
