@@ -7,5 +7,5 @@
     "enabled": true
   },
   "rangeStrategy": "pin",
-  "constraints": { "composer": "^2.0.0", "php": "^7.3.0" }
+  "constraints": { "composer": "~2.0.0", "php": "7.3" }
 }
